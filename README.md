@@ -70,14 +70,6 @@ To get started with this template, please follow the instructions in the respect
     docker-compose down
     ```
 ### Notes
-- Before running the `docker-compose up` command, under the Docker Compose config for the backend, there is a `platform` specification. The Docker image is dependent on the system you are running the `docker-compose up` command on. Use the below to apply the patch based on your system:
-
-| Platform | Patch |
-|----------|----------|
-| Mac M1   | linux/arm64    |
-| Linux    | linux/amd64    |
-| Mac Intel Chip | linux/amd64 |
-
 - Ensure the `.env` files in both `frontend` and `backend` directories are correctly configured.
 - The `docker-compose.yml` file defines the services for the frontend, backend, PostgreSQL, proxy manager, Adminer, and Nginx.
 
