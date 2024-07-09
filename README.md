@@ -78,12 +78,15 @@ On your browser, you can access the following pages:
 
 ### Frontend
 Load `localhost` in your browser to access the frontend.
-<img width="1196" alt="Screenshot 2024-07-08 at 20 04 52" src="https://github.com/FavourDaniel/containerization-hng/assets/89241109/1ecfb7b7-40ed-4d0c-9573-98012eb59f50">
+<img width="1680" alt="Screenshot 2024-07-09 at 20 51 46" src="https://github.com/FavourDaniel/containerization-hng/assets/89241109/9e8477ea-9574-481a-8ad9-59e648f9498e">
 
+To login:
 | Value | Credential |
 |----------|----------|
 | Email | devops@hng.tech |
 | Password | devops#HNG11  |
+
+<img width="1196" alt="Screenshot 2024-07-08 at 20 04 52" src="https://github.com/FavourDaniel/containerization-hng/assets/89241109/1ecfb7b7-40ed-4d0c-9573-98012eb59f50">
 
 ### Backend
 Load `localhost/api` in your browser to access the backend.
